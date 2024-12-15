@@ -1,0 +1,37 @@
+
+
+******* Starting Base Test #1 (simpleTest) *******
+apple
+banana
+lemon
+orange
+****DONE****
+
+******* Starting Base Test #2 (generalTest) *******
+Woah
+a
+a
+at
+be
+be
+bunch
+cool
+correct
+hopefully
+if
+is
+it
+it
+look
+me
+of
+shame
+sorted
+stuff
+that
+this
+wasnt
+will
+would
+writing
+****DONE****
