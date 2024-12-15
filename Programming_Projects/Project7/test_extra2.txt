@@ -1,0 +1,48 @@
+Summarize
+
+Inventory Books -50000
+Inventory Dice -50000
+Inventory Towers -50000
+Inventory Dice 0
+Inventory Towers 0
+Inventory Books 0
+Inventory Figures 0
+Inventory Books 500
+Inventory Dice 500
+Inventory Towers 500 
+Inventory Books 20
+Inventory Dice 20
+Inventory Towers 20 
+
+Summarize
+
+Purchase a Books 530
+Purchase b Dice 0
+Purchase c Towers 1000
+Purchase a Books 10
+Purchase b Dice 1
+Purchase d Dice 0
+
+Summarize
+Quit
+
+
+/** test_extra2 Results should be: **/
+There are 0 Books, 0 Towers and 0 Dice in inventory
+we have had a total of 0 different customers
+no one has purchased any Books
+no one has purchased any Towers
+no one has purchased any Dice
+There are 520 Books, 520 Towers and 520 Dice in inventory
+we have had a total of 0 different customers
+no one has purchased any Books
+no one has purchased any Towers
+no one has purchased any Dice
+Sorry a, we only have 520 Books
+Sorry c, we only have 520 Towers
+There are 510 Books, 520 Towers and 519 Dice in inventory
+we have had a total of 2 different customers
+a has purchased the most Books (10)
+no one has purchased any Towers
+b has purchased the most Dice (1)
+/********* end of test_extra2 *************/

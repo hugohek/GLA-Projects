@@ -1,0 +1,58 @@
+Summarize
+
+Inventory Books -50000
+Inventory Dice -50000
+Inventory Towers -50000
+Inventory Figures -50000
+Inventory Dice 0
+Inventory Towers 0
+Inventory Books 0
+Inventory Books 500
+Inventory Dice 500
+Inventory Towers 500 
+Inventory Books 20
+Inventory Dice 20
+Inventory Towers 20 
+
+Summarize
+
+Purchase a Books 530
+Purchase b Dice 530
+Purchase c Towers 530
+Purchase sandeepguptadoubledeckerbusshanticurrypatel Books 519
+Purchase baljeet Towers 519 
+Purchase ferb Dice 519
+Purchase dummy1 Books 2
+Purchase dummy2 Dice 2
+Purchase dummy3 Towers 2
+Purchase brokemf Books 1
+Purchase baljeet Towers 1
+
+
+Summarize
+Quit
+
+
+/** test_extra1 Results should be: **/
+There are 0 Books, 0 Towers and 0 Dice in inventory
+we have had a total of 0 different customers
+no one has purchased any Books
+no one has purchased any Towers
+no one has purchased any Dice
+There are 520 Books, 520 Towers and 520 Dice in inventory
+we have had a total of 0 different customers
+no one has purchased any Books
+no one has purchased any Towers
+no one has purchased any Dice
+Sorry a, we only have 520 Books
+Sorry b, we only have 520 Dice
+Sorry c, we only have 520 Towers
+Sorry dummy1, we only have 1 Books
+Sorry dummy2, we only have 1 Dice
+Sorry dummy3, we only have 1 Towers
+There are 0 Books, 0 Towers and 1 Dice in inventory
+we have had a total of 4 different customers
+sandeepguptadoubledeckerbusshanticurrypatel has purchased the most Books (519)
+baljeet has purchased the most Towers (520)
+ferb has purchased the most Dice (519)
+/********* end of test test_extra1 *************/

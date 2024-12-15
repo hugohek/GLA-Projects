@@ -1,0 +1,19 @@
+Inventory Books -1
+Inventory Figures 0
+Inventory Dice 1000000000
+
+Purchase Windu Books 20
+Purchase Luke Dice 0
+Purchase Yoda Dice 1
+
+Summarize
+Quit
+
+/** test_extra3 Results should be: **/
+Sorry Windu, we only have 0 Books
+There are 0 Books, 999999999 Dice and 0 Figures in inventory
+we have had a total of 1 different customers
+no one has purchased any Books
+Yoda has purchased the most Dice (1)
+no one has purchased any Figures
+/********* end of test_extra3 *************/

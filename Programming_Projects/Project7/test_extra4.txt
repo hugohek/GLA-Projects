@@ -1,0 +1,27 @@
+Inventory Books -50000
+Inventory Dice 0
+Inventory Figures 0
+Inventory Books 500
+Inventory Books 0
+Inventory Dice 20
+Inventory Dice 1
+Inventory Figures 1
+Inventory Figures 3
+
+
+Purchase Yellow Books 20
+Purchase maybe Figures 0
+Purchase is Figures 1
+Purchase not Figures 0
+Purchase sus Dice 1
+
+Summarize
+Quit
+
+/** test_extra4 Results should be: **/
+There are 480 Books, 3 Figures and 20 Dice in inventory
+we have had a total of 3 different customers
+Yellow has purchased the most Books (20)
+is has purchased the most Figures (1)
+sus has purchased the most Dice (1)
+/********* end of test_extra4 *************/

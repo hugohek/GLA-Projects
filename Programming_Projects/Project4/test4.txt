@@ -1,0 +1,53 @@
+Inventory Books 100
+Inventory Dice 200
+Inventory Figures 50
+Inventory Towers 100
+
+Purchase Craig Books 4
+Purchase Craig Dice 100
+Return Craigs Dice 50
+
+Purchase Billy Dice 100
+
+Purchase Sue Dice 50
+Purchase Sue Books 10
+
+Inventory Dice 200
+Purchase Sue Dice 150
+Purchase Sue Figures 60
+Purchase Craig Dice 20
+Purchase Craig Books 8
+
+Purchase Billy Figures 25
+Return Billy Figures 10
+Return Billy Figures 20
+
+Purchase Johnny Figures 100
+
+Summarize
+
+Return Sue Dice 150
+Return Craig Books 12
+Return Billy Figures 15
+
+Summarize
+Quit
+/** test4 Results should be: **/
+Sorry Craigs, we do not have you in our database
+Sorry Sue, we only have 0 Dice
+Sorry Sue, we only have 50 Figures
+Billy, you do not have 20 Figures
+Sorry Johnny, we only have 35 Figures
+There are 78 Books 30 Dice 35 Figures and 100 Towers in inventory
+we have had a total of 3 different customers
+Craig has purchased the most Books (12)
+Sue has purchased the most Dice (150)
+Billy has purchased the most Figures (15)
+no one has purchased any Towers
+There are 90 Books 180 Dice 50 Figures and 100 Towers in inventory
+we have had a total of 3 different customers
+Sue has purchased the most Books (10)
+Craig has purchased the most Dice (120)
+no one has purchased any Figures
+no one has purchased any Towers
+/********* end of test 4 *************/
